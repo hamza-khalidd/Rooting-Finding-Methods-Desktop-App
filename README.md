@@ -1,18 +1,24 @@
-# Numerical-Computing-Project
+## Root Finding Numerical Methods 5x (Desktop Application)
 
-## Description
-You will enter function and required x values with tolerance for your desired function available in the project then you will get 2 outputs:
-  1) Root Value In Total Iterations
-  2) Root Values (At Every Iteration / Step By Step)
+### 1. How To Execute?
+  - ***Step 01*** : *Select Any 1 Method To Execute.*
+  - ***Step 02*** : *Enter Function.*
+  - ***Step 03*** : *Inputer All Required X Values and Tolerance.*
+  - ***Step 04*** : *Proceed and Check Output in 2 formats listed below.*
+      1. *Root Value In Total Iterations*
+      2. *Root Values (At Every Iteration / Step By Step)*
 
-## Methods Included:
-There are 5 methods included in this project:
-  1) Bisection Method
-  2) Regula Farsi Method
-  3) Newton Raphson Method
-  4) Secant Method
-  5) Mullers Method
+### 2. Which Numerical Methods Are Implemented In Project?
+*There are 5 methods included in this project:*
+  1) ***Bisection Method***
+  2) ***Regula Farsi Method***
+  3) ***Newton Raphson Method***
+  4) ***Secant Method***
+  5) ***Mullers Method***
 
-## Tools:
-Python and Tkinter
+### 3. Tools Used?
+  1. ***Python Programming***
+  2. ***Tkinter***
+
+### 4. Demo Video?
    
