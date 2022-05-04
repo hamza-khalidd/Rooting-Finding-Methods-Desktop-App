@@ -24,7 +24,7 @@
   5. ***Sympy***
 
 ### 4. Demo Video?
-   
-              Uploading NC.mp4…
+
+https://user-images.githubusercontent.com/72040742/166805126-e43bdb5b-f1d6-4ee9-9400-baddc100664d.mp4
 
 
