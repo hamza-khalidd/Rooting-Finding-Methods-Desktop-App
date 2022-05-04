@@ -16,9 +16,15 @@
   4) ***Secant Method***
   5) ***Mullers Method***
 
-### 3. Tools Used?
+### 3. Tools & Modules Used?
   1. ***Python Programming***
   2. ***Tkinter***
+  3. ***Math***
+  4. ***cMath***
+  5. ***Sympy***
 
 ### 4. Demo Video?
    
+              Uploading NC.mp4…
+
+
